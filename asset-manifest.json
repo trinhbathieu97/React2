@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React2/static/css/main.b2547955.chunk.css",
+    "main.js": "/React2/static/js/main.77db4491.chunk.js",
+    "main.js.map": "/React2/static/js/main.77db4491.chunk.js.map",
+    "runtime-main.js": "/React2/static/js/runtime-main.462b7c3c.js",
+    "runtime-main.js.map": "/React2/static/js/runtime-main.462b7c3c.js.map",
+    "static/js/2.bcc30a3d.chunk.js": "/React2/static/js/2.bcc30a3d.chunk.js",
+    "static/js/2.bcc30a3d.chunk.js.map": "/React2/static/js/2.bcc30a3d.chunk.js.map",
+    "static/js/3.63402147.chunk.js": "/React2/static/js/3.63402147.chunk.js",
+    "static/js/3.63402147.chunk.js.map": "/React2/static/js/3.63402147.chunk.js.map",
+    "index.html": "/React2/index.html",
+    "static/css/main.b2547955.chunk.css.map": "/React2/static/css/main.b2547955.chunk.css.map",
+    "static/js/2.bcc30a3d.chunk.js.LICENSE.txt": "/React2/static/js/2.bcc30a3d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React2/static/media/ny.d26ced9f.jpg",
+    "static/media/map.f164b4bd.jpg": "/React2/static/media/map.f164b4bd.jpg",
+    "static/media/newyork.b1dc0f21.jpg": "/React2/static/media/newyork.b1dc0f21.jpg",
+    "static/media/paris.5ea39f78.jpg": "/React2/static/media/paris.5ea39f78.jpg",
+    "static/media/sanfran.b00af96e.jpg": "/React2/static/media/sanfran.b00af96e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.462b7c3c.js",
+    "static/js/2.bcc30a3d.chunk.js",
+    "static/css/main.b2547955.chunk.css",
+    "static/js/main.77db4491.chunk.js"
+  ]
+}
